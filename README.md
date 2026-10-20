@@ -1,5 +1,5 @@
 # ECHO — Quantathon Submission
-**Entangled Minds: The Quantathon · Qubits Qrew, NED University**
+**Syed Mohammad Huzaifa** · Entangled Minds: The Quantathon · Qubits Qrew, NED University
 
 ## The case
 Dr. Zara Mahmud vanished from her lab, leaving her quantum machine looping one experiment, **ECHO**, which she believed sent a message faster than light using entanglement. The investigation unlocks six quantum modules and asks one question: **was ECHO a real breakthrough, or did she mistake an echo (correlation) for a voice (communication)?** Suspects: Prof. Imran Vance, Sana Rao, Bilal Noor and the lab AI, ARIA.

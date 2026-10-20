@@ -1,5 +1,5 @@
 # ECHO — Case Report
-**Entangled Minds: The Quantathon · Qubits Qrew, NED University**
+**Syed Mohammad Huzaifa** · Entangled Minds: The Quantathon · Qubits Qrew, NED University
 Modules completed: 01, 03, 05 (mandatory) · 06 (stretch) · 02 (extra stretch). Notebook: `ECHO_Investigation_Notebook.ipynb`.
 
 ## 1. Final theory / verdict
